@@ -36,9 +36,7 @@ Sou **Paulo Henrique**, interessado em tecnologia e no estudo aprofundado de com
     </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -107,7 +105,7 @@ src=""
 
 </p>
 
----
+## Projetos
 <!-- Abas simuladas com details/summary -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 

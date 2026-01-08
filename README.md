@@ -115,7 +115,7 @@ src=""
 <details>
   <summary><span style="font-size:20px">🧭 <strong>PDF-Tools</strong></span></summary>
   <br>
-  <img src="img/PDF-Tools.png" width=300px style="border:2px solid red">
+  <img src="img/PDF-Tools.png" width=300px>
 
   ### 📂 Repositório  
   🔗 [Abrir prévia do projeto](https://phsds.github.io/PDF-Tools "Abrir prévia do projeto")

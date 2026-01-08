@@ -2,7 +2,7 @@
 
 **`Programador`**
 
-Sou **Paulo Henrique**, interessado em tecnologia e no estudo aprofundado de como os códigos funcionam e podem ser implementados. Tenho grande apreço pelo ecossistema Linux, pela eficiência e liberdade que oferece no desenvolvimento, especialmente em projetos relacionados a tecnologias como o Tor. Busco constantemente aprimorar meus conhecimentos e aplicá-los em soluções práticas e seguras.
+Meu nome é **Paulo Henrique**, interessado em tecnologia e no estudo aprofundado de como os códigos funcionam e podem ser implementados. Tenho grande apreço pelo ecossistema Linux, pela eficiência e liberdade que oferece no desenvolvimento, especialmente em projetos relacionados a tecnologias como o Tor. Busco constantemente aprimorar meus conhecimentos e aplicá-los em soluções práticas e seguras.
 
 
 <p align="left">
@@ -110,20 +110,18 @@ src=""
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
 
+
+
 <details>
   <summary><span style="font-size:20px">🧭 <strong>PDF-Tools</strong></span></summary>
-
+  <br>
+  <img src="img/PDF-Tools.png" width=300px style="border:2px solid white">
 
   ### 📂 Repositório  
   🔗 [Abrir prévia do projeto](https://phsds.github.io/PDF-Tools "Abrir prévia do projeto")
 
   ### 📝 Descrição rápida  
-  Uma prévia hospedada no **GitHub Pages** mostrando o build atual.
-
-  ### ✨ Destaques
-  - 🚀 Deploy automático no GitHub Pages  
-  - 📑 Ferramenta para manipulação de PDFs  
-  - 🛠️ Build atualizado em tempo real  
+  Ferramenta para automatização de OCR em documentos PDF.
 
   ![Badge](https://img.shields.io/badge/status-online-success?style=for-the-badge&logo=github)
   ![Badge](https://img.shields.io/badge/version-0.1-blue?style=for-the-badge)

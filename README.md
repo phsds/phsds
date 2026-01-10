@@ -1,4 +1,4 @@
-# 👩🏻‍💻 INTRODUÇÃO
+#INTRODUÇÃO
 
 **`Programador`**
 
@@ -105,7 +105,7 @@ src=""
 
 </p>
 
-## Projetos
+## 💻 Projetos
 <!-- Abas simuladas com details/summary -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
@@ -118,7 +118,7 @@ src=""
   <img src="img/PDF-Tools.png" width=300px>
 
   ### 📂 Repositório  
-  🔗 [Abrir prévia do projeto](https://phsds.github.io/PDF-Tools "Abrir prévia do projeto")
+  🔗 [Abrir página do projeto](https://github.com/phsds/PDF-Tools "Abrir prévia do projeto")
 
   ### 📝 Descrição rápida  
   Ferramenta para automatização de OCR em documentos PDF.

@@ -1,9 +1,8 @@
-# 👩🏻‍💻 INTRODUÇÃO
+# 👨‍💻 INTRODUÇÃO
 
 **`Programador`**
 
 Meu nome é **Paulo Henrique**, interessado em tecnologia e no estudo aprofundado de como os códigos funcionam e podem ser implementados. Tenho grande apreço pelo ecossistema Linux, pela eficiência e liberdade que oferece no desenvolvimento, especialmente em projetos relacionados a tecnologias como o Tor. Busco constantemente aprimorar meus conhecimentos e aplicá-los em soluções práticas e seguras.
-
 
 <p align="left">
     <a href="https://www.youtube.com/@phsds_yt?sub_confirmation=1">
@@ -105,7 +104,7 @@ src=""
 
 </p>
 
-## Projetos
+## 💻 Projetos
 <!-- Abas simuladas com details/summary -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
@@ -118,7 +117,7 @@ src=""
   <img src="img/PDF-Tools.png" width=300px>
 
   ### 📂 Repositório  
-  🔗 [Abrir prévia do projeto](https://phsds.github.io/PDF-Tools "Abrir prévia do projeto")
+  🔗 [Abrir página do projeto](https://github.com/phsds/PDF-Tools "Abrir prévia do projeto")
 
   ### 📝 Descrição rápida  
   Ferramenta para automatização de OCR em documentos PDF.

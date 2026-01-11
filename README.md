@@ -124,7 +124,7 @@ src=""
   Ferramenta para automatização de OCR em documentos PDF.
 
   ![Badge](https://img.shields.io/badge/status-online-success?style=for-the-badge&logo=github)
-  ![Badge](https://img.shields.io/badge/version-0.1-blue?style=for-the-badge)
+  ![Badge](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
 </details>
 
 </div>

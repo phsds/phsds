@@ -5,19 +5,19 @@
 Meu nome é **Paulo Henrique**, interessado em tecnologia e no estudo aprofundado de como os códigos funcionam e podem ser implementados. Tenho grande apreço pelo ecossistema Linux, pela eficiência e liberdade que oferece no desenvolvimento, especialmente em projetos relacionados a tecnologias como o Tor. Busco constantemente aprimorar meus conhecimentos e aplicá-los em soluções práticas e seguras.
 
 <p align="left">
-    <a href="https://www.youtube.com/@phsds_yt?sub_confirmation=1">
+    <!--<a href="https://www.youtube.com/@phsds_yt?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCilDacC_bPELoqtZe6KMbdQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+        />-->
     </a>
-    <a href="https://www.youtube.com/@phsds_yt">
+    <!--<a href="https://www.youtube.com/@phsds_yt">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCilDacC_bPELoqtZe6KMbdQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+        />-->
     </a> 
     <a href="https://github.com/phsds?tab=repositories&sort=stargazers">
         <img 

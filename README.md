@@ -112,7 +112,7 @@ src=""
 
 
 <details>
-  <summary><span style="font-size:20px">🧭 <strong>PDF-Tools</strong></span></summary>
+  <summary><span style="font-size:20px">🚀 <strong>PDF-Tools</strong></span></summary>
   <br>
   <img src="img/PDF-Tools.png" width=300px>
 
@@ -126,5 +126,19 @@ src=""
   ![Badge](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
 </details>
 
-</div>
+<details>
+  <summary><span style="font-size:20px">🚀 <strong>YouTube_Dwl</strong></span></summary>
+  <br>
+  <img src="img/YouTube_Dwl.png" width=300px>
 
+  ### 📂 Repositório  
+  🔗 [Abrir página do projeto](https://github.com/phsds/youtube-dwl "Abrir prévia do projeto")
+
+  ### 📝 Descrição rápida  
+  Download de vídeos do Youtube e conversão para o formato mp3.
+
+  ![Badge](https://img.shields.io/badge/status-online-success?style=for-the-badge&logo=github)
+  ![Badge](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
+</details>
+
+</div>

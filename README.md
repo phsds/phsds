@@ -71,6 +71,6 @@
 ### 📊 `htop`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phsds&show_icons=true&theme=transparent&hide_border=true&title_color=23D18B&icon_color=23D18B&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsds&layout=compact&theme=transparent&hide_border=true&title_color=23D18B&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=phsds&show_icons=true&bg_color=00000000&hide_border=true&title_color=23D18B&icon_color=23D18B&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phsds&layout=compact&bg_color=00000000&hide_border=true&title_color=23D18B&text_color=c9d1d9" alt="Top Languages" />
 </div>

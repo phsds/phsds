@@ -77,6 +77,15 @@
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 20px;">
+      <h4>🧮 CO2_Calculadora</h4>
+      <a href="https://github.com/phsds/CO2_Calculadora">
+        <img src="img/CO2_Calculadora.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="CO2_Calculadora">
+      </a>
+      <br><br>
+      <p><i>Calculadora de emissões de CO2.</i></p>
+      <a href="https://github.com/phsds/CO2_Calculadora">
+        <img src="https://img.shields.io/badge/-Repositório-1a1a1a?style=for-the-badge&logo=github&logoColor=23D18B" alt="Repositório" />
+      </a>
     </td>
   </tr>
 </table>

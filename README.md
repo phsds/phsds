@@ -44,7 +44,7 @@
     <td align="center" width="50%" style="border: none; padding: 20px;">
       <h4>📄 PDF-Tools</h4>
       <a href="https://github.com/phsds/PDF-Tools">
-        <img src="img/PDF-Tools.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="PDF-Tools">
+        <img src="static/img/PDF-Tools.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="PDF-Tools">
       </a>
       <br><br>
       <p><i>Ferramenta para automatização de OCR em documentos PDF.</i></p>
@@ -55,7 +55,7 @@
     <td align="center" width="50%" style="border: none; padding: 20px;">
       <h4>🎵 YouTube_Dwl</h4>
       <a href="https://github.com/phsds/youtube-dwl">
-        <img src="img/YouTube_Dwl.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="YouTube_Dwl">
+        <img src="static/img/YouTube_Dwl.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="YouTube_Dwl">
       </a>
       <br><br>
       <p><i>Download de vídeos do YouTube e conversão para formato MP3.</i></p>
@@ -68,7 +68,7 @@
     <td align="center" width="50%" style="border: none; padding: 20px;">
       <h4>🎮 MHS1_SaveEditor</h4>
       <a href="https://github.com/phsds/MHS1_SaveEditor">
-        <img src="img/MH%20Stories%20-%20Save%20Editor.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="MHS1_SaveEditor">
+        <img src="static/img/MH%20Stories%20-%20Save%20Editor.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="MHS1_SaveEditor">
       </a>
       <br><br>
       <p><i>Editor de save para Monster Hunter Stories 1 (Switch).</i></p>
@@ -79,7 +79,7 @@
     <td align="center" width="50%" style="border: none; padding: 20px;">
       <h4>🧮 CO2_Calculadora</h4>
       <a href="https://github.com/phsds/CO2_Calculadora">
-        <img src="img/CO2_Calculadora.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="CO2_Calculadora">
+        <img src="static/img/CO2_Calculadora.png" width="80%" style="border-radius: 8px; border: 1px solid #333;" alt="CO2_Calculadora">
       </a>
       <br><br>
       <p><i>Calculadora de emissões de CO2.</i></p>

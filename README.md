@@ -7,6 +7,9 @@
 </a>
 
 <p align="center">
+    <a href="https://phsds.github.io/phsds/">
+        <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-Website-1a1a1a?style=for-the-badge&logo=globe&logoColor=23D18B" />
+    </a>
     <a href="https://github.com/phsds?tab=repositories&sort=stargazers">
         <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/phsds?color=23D18B&style=for-the-badge&labelColor=1a1a1a&logo=star&label=estrelas" />
     </a>
@@ -22,6 +25,12 @@
 ### 👨‍💻 `cat /home/phsds/about.txt`
 
 > **`sys.info()`**: Interessado em tecnologia e no estudo aprofundado de como os códigos funcionam e podem ser implementados. Tenho grande apreço pelo ecossistema Linux, pela eficiência e liberdade que oferece no desenvolvimento, especialmente em projetos relacionados a tecnologias como o Tor. Busco constantemente aprimorar meus conhecimentos e aplicá-los em soluções práticas e seguras.
+
+---
+
+### 🌐 `ping -c 1 phsds.github.io`
+
+> **Website**: [https://phsds.github.io/phsds/](https://phsds.github.io/phsds/)
 
 ---
 
